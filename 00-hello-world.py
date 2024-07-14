@@ -5,5 +5,5 @@ led_onboard = machine.Pin(25, machine.Pin.OUT)
 
 while True:
     led_onboard.toggle()
-    utime.sleep_ms(300)
+    utime.sleep_ms(500)
     
