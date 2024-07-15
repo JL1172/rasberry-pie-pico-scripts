@@ -6,5 +6,5 @@
 
 # Picture of wire diagram
 
-<!-- ![picture of wire diagram](/assets/) -->
+![picture of wire diagram](/assets/Screenshot%20from%202024-07-14%2020-55-45.png)
 
